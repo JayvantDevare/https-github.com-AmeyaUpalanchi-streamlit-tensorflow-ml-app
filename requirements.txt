@@ -3,8 +3,10 @@ tensorflow-cpu
 streamlit
 numpy
 pandas
-pillow
+pillow==9.5
+protobuf==3.20.*
 keras
+Keras-Preprocessing
 pathlib
 matplotlib
 python-resize-image
